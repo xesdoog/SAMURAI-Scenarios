@@ -13,4 +13,4 @@ Any help with this would be much appreciated.
 
 [TheKingBugga](https://www.unknowncheats.me/forum/members/2987262.html) on UC for helping with issues.
 
-[ShinyWasabi](https://github.com/YimMenu-Lua/RandomEvents/commits?author=ShinyWasabi) for inspiring the layout of the menu.
+[ShinyWasabi](https://github.com/ShinyWasabi) for inspiring the layout of the menu.
