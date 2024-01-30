@@ -19,6 +19,8 @@ None at the moment.
 
 # Credits
 
-[TheKingBugga](https://www.unknowncheats.me/forum/members/2987262.html) on UC for helping with issues.
+[TheKingBugga](https://www.unknowncheats.me/forum/members/2987262.html) on UC for helping with code issues.
 
 [ShinyWasabi](https://github.com/ShinyWasabi) for inspiring the layout of the menu.
+
+[lonelybud](https://github.com/lonelybud) for helping me fix crash issues.
