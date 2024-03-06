@@ -1,5 +1,5 @@
-# YimScenarios
-Lua script to play GTA Online scenarios using YimMenu.
+# [OUTDATED] YimScenarios
+Play GTA V Scenarios Using YimMenu.
 
 
 ![Screenshot 2024-01-30 104610](https://github.com/YimMenu-Lua/SAMURAI-Scenarios/assets/66764345/15f75d88-5259-43be-9efc-d5b07d1bf9bb)
@@ -7,13 +7,8 @@ Lua script to play GTA Online scenarios using YimMenu.
 
 ![Screenshot 2024-01-30 111821](https://github.com/YimMenu-Lua/SAMURAI-Scenarios/assets/66764345/0158d270-f870-415e-9033-cfd48d727573)
 
-# Future Improvements
-- ~~Assuming I could figure it out, I want to add a search function so that users can easily find the scenario they want to play.~~
-- DONE. Thanks to [ShinyWasabi](https://github.com/ShinyWasabi)
-
-# Known Issues
-
-None at the moment.
+> [!WARNING]
+> This script will no longer receive updates because it has been improved and moved to [YimActions](https://github.com/xesdoog/YimActions).
 
 # Credits
 
